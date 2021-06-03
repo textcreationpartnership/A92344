@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation from Portsmouth, vvherein is declared, the manner how the castle was taken on Saturday night last; as it was sent in a letter by one there present. Sep. 6, 1642. Likewise sixteen propositions, presented at the generall meeting of the gentry of the city of Gloucester, the 25. and 26. of August, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92344</idno><idno type="EEBO-CITATION">99871349</idno>
+  <idno type="VID">156039</idno>
+  <idno type="EEBO-PROQUEST">2240942171</idno>
+  
+            <idno type="STC">Wing R779</idno>
+            <idno type="STC">Thomason E116_15</idno>
+            <idno type="STC">ESTC R212778</idno>
+            <idno type="PROQUEST">99871349</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871349e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156039)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E116[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation from Portsmouth, vvherein is declared, the manner how the castle was taken on Saturday night last; as it was sent in a letter by one there present. Sep. 6, 1642. Likewise sixteen propositions, presented at the generall meeting of the gentry of the city of Gloucester, the 25. and 26. of August, 1642.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his shop in Popes-head Ally,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation in Thomason copy: "Septem: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Portsmouth(England) --  Siege, 1642 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Gloucester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156039:1"/>
+            <p>A RELATION from Portsmouth, VVherein is declared, the manner how the <hi>Castle</hi> was taken on <hi>Saturday</hi> night last; as it was sent in a Letter by one there present. <hi>Sep.</hi> 6, 1642.</p>
+            <p>LIKEWISE <hi>Sixteen</hi> PROPOSITIONS, Presented at the Generall meeting of the Gentry of the City of <hi>Gloucester,</hi> the 25. and 26. of <hi>August,</hi> 1642.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Overton,</hi> and are to be sold at his Shop in <hi>Popes-head Ally,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156039:2"/>
+            <pb n="1" facs="tcp:156039:2"/>
+            <head>A TRVE RELATION Of the taking THE CASTLE AT Ports-mouth.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He quarrell we goe about to revenge, is not ours but Gods, and therefore wee find so much incouragement in our pro<g ref="char:EOLhyphen"/>ceedings. The dogs (so we call the great guns) barke every houre in the day and night too, they flie through the midst of us, yet God preserveth us; sometimes there is scarce an inch betweene death and us, and yet it pleaseth God to deliver us from those bloodthirsty men. We hazard much, but loose yet little. As I have till <hi>Friday</hi> last given you a brief relation of our condition here, whereof I hope you heare to day, so now I will give further notice of our proceed<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. Vpon <hi>Saturday</hi> night, (this night) being the 4 of <hi>September;</hi> upon a long de<g ref="char:EOLhyphen"/>bate between the Collonells and Captaines, we agreed to make
+<pb n="2" facs="tcp:156039:3"/> ready 2. Troopes, and a matter of foure hundred foot, and to much, (having a matter of twenty ladders with us) towards a Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle called the Southsea Castle, halfe a mile beyond <hi>Ports-mouth.</hi> D awing neere the Cast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e wee met with many Can<g ref="char:EOLhyphen"/>no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bu lets, which the Collonell let flie at us, though at ran<g ref="char:EOLhyphen"/>dom, it seemes he heard that we went ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut to take the Castle yet none of us hurt at al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. At the same time wee made an al<g ref="char:EOLhyphen"/>arum at one side of <hi>Ports-mouth</hi> on the other side of it, our Cannons plaid from a place called the <hi>Gasper</hi> into the Towne, whereupon this we heard a very pittifull lamentation, which makes us beleeve, that our gunnes made some execution a<g ref="char:EOLhyphen"/>mongst them since &amp; we heard that our Cannons killed two of their men. On the third side of it we had those afore named forces, and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de toward the Southsea Castle, it being about 3 of the clocke towards the morning. We sent a Trumpeter and one Captaine Bushell to the Castle, where, upon the bridge adjoyning to the Castle, our Captaine commanded his Trum<g ref="char:EOLhyphen"/>peter to found a parly. Presently after this notice being given of it to the Capt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in of the Castle, called <hi>Challender,</hi> he had some discourse, about the surrendring of the Castle to us: wee pro<g ref="char:EOLhyphen"/>pounded faire quarter, in case he would fairely surrender the Castle, if not, we would use our discretion in our proceedings against him: he being some thing in drinke, and withall new<g ref="char:EOLhyphen"/>ly wakened out of his deepe sleepe, desired first of all, that we should stay till the next morning, and he would consider of it. Withall he demaunded who had sent him, the Captain reply<g ref="char:EOLhyphen"/>ed, that hee had received his message from Collonell <hi>Waler,</hi> Collonel <hi>Norton,</hi> and Collo. <hi>Vrri,</hi> who were then not farre off, and waited for the resignation of that fort: while hee would have protracted time, our foote being seconded by us, scaled the walles &amp; so prevented that intended delay. <hi>Chalender</hi> seing himself nigh lost, demanded presently faire quarter, which hee obtained with all his Souldiers, though few in number, beside his Lievtenant and Ensigne. Serjeant Maior <hi>Harbert,</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Bushel</hi> promised him and all his men faire quarter, which was really performed, and the greatest prejudice they recei<g ref="char:EOLhyphen"/>ved
+<pb n="3" facs="tcp:156039:3"/> was, that they were disarmed, and now as yet remain con<g ref="char:EOLhyphen"/>fined to their cabins. Our souldiers carried themselves fairely, being full of resolu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, and ready to goe even upon the mouth of the Canno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. <hi>Challender</hi> seeing himselfe disposed of, yet amongst his new Friends he fell to drinking of the King and Parliamen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s healen in sack; with our Officers, desiring that 3. pieces of Ordnance might bee discharged against the town of <hi>Ports<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outh</hi> to let them know that now this Castle was at an<g ref="char:EOLhyphen"/>other mans disposing; those being discharged, the town let so fly at us, that I thought we should have been al cut off, but God in mercy preserved us, and no man of us not only not killed, but not hurt neither. I confesse once I was my selfe nigh of being cut off, but thankes bee to God <hi>I</hi> tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ump<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. We tooke 9. or 10. Canno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s mounted again <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us, and few others or as many ready to be mounted, some fit for great execution, some for present service two. As soon as we had the Castle gi<g ref="char:EOLhyphen"/>ven up to us, we left in it a matter of 80. of our souldiers, be<g ref="char:EOLhyphen"/>ing co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fident that now wee have got a mighty advantage a<g ref="char:EOLhyphen"/>gainst <hi>Goring,</hi> no sooner we returned to our q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arters, and re<g ref="char:EOLhyphen"/>freshed our selves with mutuall congratulations, but Collonel <hi>Goring</hi> sent a Drumme to us, with mess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, desiring earnestly some speedy parly, it is thought that there will be a mutiny in the town, he desired a parly to night, but the day being farre spent, they have put it off all to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrow morning, My Cap<g ref="char:EOLhyphen"/>tain Sir <hi>Thomas Jervis</hi> &amp; Sir <hi>William Lewes</hi> go thither, and my Lord <hi>Wentworth,</hi> and two more are to come hither, til the trea<g ref="char:EOLhyphen"/>ty be done, It is conceived that we shall very shortly injoy the Towne. This is the short of this dayes exploit, had I h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d more time, I would h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve writ more a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> large. I should have been with you this weeke, but I know why I did not, I might have gone but: Pray you remember my service to my good friends, and so in ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te I rest.</p>
+            <closer>
+               <signed>Your most faithfull Friend.</signed>
+               <dateline>
+                  <hi>Given at my quarter at</hi> Kingstone <date>
+                     <hi>September</hi> 4. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="propositions">
+            <pb n="1" facs="tcp:156039:4"/>
+            <head>
+               <hi>Sixteene</hi> PROPOSITIONS Presented at the generall meeting of the Gentry of the City of <hi>Gloucester</hi> the 25. and 26. of <hi>August.</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is resolved (for the preservation of the peace and safety of that County against any formi<g ref="char:EOLhyphen"/>dable Companies that shall attempt either to enter or arise in the said County.)</p>
+            <p n="1">1. That it is necessary to have such forces in readinesse, as may be able to repell any formidable Companies that shall offer to enter into the County and to suppresse any tumults that shall arise within the County.</p>
+            <p n="2">2. That it is necessary that 240. Horse (besides Offi<g ref="char:EOLhyphen"/>cers) be presently raysed equally out of every division to be disciplyned and disposed under such Commanders and in such places as shall appeare most expedient.</p>
+            <p n="3">3. To try what horse each division can be perswaded to finde, besides to be ready upon all occasions.</p>
+            <p n="4">4. That every division be tryed what companies of foot may be raysed and disciplyned under Commanders, and how many of them Dragoneers, all volunteers, provided that the forwardnes of any in a free contribution, shall not be drawne into president for the future as a measure of their abilities, but received as a present Testimony of
+<pb n="3" facs="tcp:156039:4"/> their good affection to their Countries safety.</p>
+            <p n="5">5. That we do voluntarily submit to the commands by ordinance of the <hi>Militia,</hi> and that it be speedily put in execution.</p>
+            <p>That i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is resolved to entertaine 3. Commanders one of Horse, and two of Foote.</p>
+            <p n="6">6. That the Gentlemen in every Division, do propound to those of best abilities a Loane of such summes of mo<g ref="char:EOLhyphen"/>ney or Plate, as they are willing to spare for the service of the King and Kingdome, to be repayed with interrest, &amp; to supply horses according to the Propositions, and that the Parliament men for this County, may move the Parliament to make allowance of money out of such Loanes for the service of this County, which is usually granted when moved.</p>
+            <p n="7">7. That there be a place in every Division appointed where all the Souldiers both Voluntiers and such as have bin trayned may make their rendevous upon all alarums, &amp; there receive directions from their Commanderss what to do, and whither to march for the Forrest and City: <hi>Huntley</hi> for <hi>Kiftsgate, Winchcombe</hi> for the 7. hundreds <hi>Ci<g ref="char:EOLhyphen"/>rencester,</hi> and for <hi>Berkeley S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dbury.</hi>
+            </p>
+            <p n="8">8. That there be allowed to every musqueteere that hath bin of the trayned band out of your Magazine, a pound of powder, 3. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bullets, match answerable alwaies to be kept in readinesse by the souldier, who from time to time is to make it good, that at the time of mar<g ref="char:EOLhyphen"/>ching, the same proportion to be allowed out of the Ma<g ref="char:EOLhyphen"/>gazine to the Voluntiers.</p>
+            <p n="9">9. That every Musquetier that hath bin of the trayned bands be allowed out of the Magazine a quarter of a pound of powder for every dayes exercise, without which they will not be ready fire men.</p>
+            <p n="10">10. That every Souldier must have the keeping of the Armes he serves in.</p>
+            <p n="11">
+               <pb n="6" facs="tcp:156039:5"/>11. That the ancientest Captaine be a Collonell in each division, appointed for the present service, from whom the other Captaines may receive their commands: &amp; that the ancientest of those Collonells may command in chiefe, for the present occasion under the Lord Liev<g ref="char:EOLhyphen"/>tenant.</p>
+            <p n="12">12. That every Souldier may have a Horse to carry himselfe and Armes to the rendevous.</p>
+            <p n="13">13. That regard be had to all ferry boates and passages, especially over <hi>Wye</hi> and <hi>Severne</hi> that they passe not Soul<g ref="char:EOLhyphen"/>diers, that the boats lye on the English side of the water.</p>
+            <p n="14">14. That carts be appointed in every division to carry the Ammunition with the Souldiers when they march.</p>
+            <p n="15">15. That the Magazine be put into safe hands and pla<g ref="char:EOLhyphen"/>ces, and the defects supplied.</p>
+            <p n="16">16. That speciall care be had for scoutes from time to time to give Intelligence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
